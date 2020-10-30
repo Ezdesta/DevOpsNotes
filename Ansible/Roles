@@ -53,4 +53,4 @@ cp /etc/httpd/conf/httpd.conf .
 - name: restart apache service
   service: name=httpd state=restarted
   
-
+-----o-------o--------o--------------
